@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    color: white;
+} 
+
+h1 {
+
+ text-align: center;
+ font-size: 48px;
+ margin-top: 100px;
+}
+
+#logo-netflix{
+    width: 250px;
+}
+
+#paragrafo-principal {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 14px;
+
+}
+
+#container {
+    background:url(" ./img/fundo.jpeg");
+    padding-bottom: 100px;
+}
+
+#botton-enter {
+    background-color: #e50914;
+    font-size: 20px;
+    padding:8px 18px;
+    border:0;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+}
+
+#cabecalho {
+    padding: 28px 56px;
+
+}
+
+#paragrafo-pronto {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#formulario {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 70px;
+   
+
+}
+
+input{
+    width: 500px;
+    border: 0;
+    padding-left: 10px;
+
+}
+
+#botton-email{
+    width: 250px;
+    background-color: #e50914;
+    border: 0;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#botton-email:hover {
+    opacity: 0.6;
+    
+}
+
+#rodape {
+    background-color:#000;
+    border-top: 10px solid #303030;
+    padding: 100px 0;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+#botton-pergunta{
+    width: 800px;
+    background-color: #303030;
+    height: 70px;
+    border: 0;
+    font-size: 28px;
+    margin-top: 40px;
+    text-align: left ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0 24px;
+    cursor: pointer;
+}
+
+#image-pergunta{
+    float: right;
+    margin-top: 8px;
+    transform: rotate(45deg);
+}
+
+
+#image-pergunta-gira{
+    float: right;
+    margin-top: 8px;
+    transform: rotate(90deg);
+
+}
+
+#pergunta{
+    background-color: #303030;
+    text-align:left;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size: 28px;
+    display: none;
+
+}
