@@ -2,7 +2,7 @@
  Henrique Paredes
  
 
-<img src="./img/Captura de tela netflix.png" width="250px" alt="imagem da tela de login">
+<img src="./img/Captura de tela netflix.png" width="550px" alt="imagem da tela de login">
 
 <b> <b>
 
